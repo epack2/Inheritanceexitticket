@@ -1,2 +1,3 @@
-public class childclass2 {
+public class HourlyEmployee  {
+
 }
