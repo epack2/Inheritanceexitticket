@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// Made by Camryn Joyner and Ethan Pack
 // Parent class: Employee
 public class Employee {
 
